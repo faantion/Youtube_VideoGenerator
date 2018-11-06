@@ -139,17 +139,7 @@ else {
 		<div class="sidebar col-md-4">
 			<a href="#" class="btn btn-primary" onclick="window.location.reload(true);"><span class="glyphicon glyphicon-refresh"></span> Refresh</a>
 			<div class="add">
-				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-				<ins class="adsbygoogle"
-				     style="display:block"
-				     data-ad-format="fluid"
-				     data-ad-layout="image-top"
-				     data-ad-layout-key="-8f+20-ec+do+j5"
-				     data-ad-client="ca-pub-7802041340725688"
-				     data-ad-slot="6961808803"></ins>
-				<script>
-				     (adsbygoogle = window.adsbygoogle || []).push({});
-				</script>
+				<!-- AdSense Go Here -->
 			</div>
 		</div>
 
@@ -195,16 +185,7 @@ else {
   	</div>
 </div>
 <div class="container long-ad">
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<!-- video generatorrr responsive -->
-	<ins class="adsbygoogle"
-	     style="display:block"
-	     data-ad-client="ca-pub-7802041340725688"
-	     data-ad-slot="5972994913"
-	     data-ad-format="auto"></ins>
-	<script>
-	(adsbygoogle = window.adsbygoogle || []).push({});
-	</script>
+	<!-- AdSense Go Here -->
 </div>
 <footer class="footer">
 	<p class="text-center container">
@@ -223,15 +204,6 @@ else {
   crossorigin="anonymous"></script>
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-101340120-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
+<!-- Analytics Go Here -->
 </body>
 </html>
